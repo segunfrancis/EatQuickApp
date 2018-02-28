@@ -5,6 +5,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="openDrawer">open_drawer</string>
     <string name="closeDrawer">close_drawer</string>
+    <string name="home">Home</string>
     <string name="welcome">Welcome!</string>
     <string name="hungry">Hungry?</string>
     <string name="order">Order Delicious Meals Online</string>
@@ -12,6 +13,11 @@
     <string name="login">Login</string>
     <string name="logout">Logout</string>
     <string name="register">Sign up</string>
+    <string name="social">Social</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google +</string>
+    <string name="twitter">Twitter</string>
+    <string name="other">Other</string>
     <string name="about">About Us</string>
     <string name="policy">Privacy Policy</string>
     <string name="action_clear_all">Clear All</string>
@@ -22,8 +28,6 @@
         <item>Home</item>
         <item>Login</item>
         <item>Sign up</item>
-        <item>Help</item>
-        <item>Share</item>
     </string-array>
 
     <!--Second part of Toolbar titles when navigation menu item is selected-->
